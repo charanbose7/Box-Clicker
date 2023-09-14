@@ -46,6 +46,7 @@ MonoBehaviour:
   - EnableGameObjectRPC
   - StartCountdownRPC
   - DestroyCubeRPC
+  - SyncCountdownRPC
   DisableAutoOpenWizard: 1
   ShowSettings: 1
   DevRegionSetOnce: 0
